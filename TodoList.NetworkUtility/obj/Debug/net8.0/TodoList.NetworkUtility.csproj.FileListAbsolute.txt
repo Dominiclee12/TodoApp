@@ -1,0 +1,14 @@
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\bin\Debug\net8.0\TodoList.NetworkUtility.exe
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\bin\Debug\net8.0\TodoList.NetworkUtility.deps.json
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\bin\Debug\net8.0\TodoList.NetworkUtility.runtimeconfig.json
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\bin\Debug\net8.0\TodoList.NetworkUtility.dll
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\bin\Debug\net8.0\TodoList.NetworkUtility.pdb
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\TodoList.NetworkUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\TodoList.NetworkUtility.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\TodoList.NetworkUtility.AssemblyInfo.cs
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\TodoList.NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\TodoList.NetworkUtility.dll
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\refint\TodoList.NetworkUtility.dll
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\TodoList.NetworkUtility.pdb
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\TodoList.NetworkUtility.genruntimeconfig.cache
+C:\Users\domin\source\repos\TodoList\TodoList.NetworkUtility\obj\Debug\net8.0\ref\TodoList.NetworkUtility.dll
