@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.WebAPI", "TodoList.WebAPI\TodoList.WebAPI.csproj", "{1627DDD9-BA32-4C33-89EF-D9F52A6A77F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.WebAPI", "Server\TodoList.WebAPI\TodoList.WebAPI.csproj", "{1627DDD9-BA32-4C33-89EF-D9F52A6A77F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.CoreBusiness", "TodoList.CoreBusiness\TodoList.CoreBusiness.csproj", "{260291EF-4CA5-48E1-8DF1-08CC3E7EB1E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.CoreBusiness", "Server\TodoList.CoreBusiness\TodoList.CoreBusiness.csproj", "{260291EF-4CA5-48E1-8DF1-08CC3E7EB1E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Application", "TodoList.Application\TodoList.Application.csproj", "{3D98FC91-90CA-43B4-99FF-AAB71B294DDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Application", "Server\TodoList.Application\TodoList.Application.csproj", "{3D98FC91-90CA-43B4-99FF-AAB71B294DDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Infrastructure", "TodoList.Infrastructure\TodoList.Infrastructure.csproj", "{F70ED59A-7C61-493F-88FE-5523AE691A67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Infrastructure", "Server\TodoList.Infrastructure\TodoList.Infrastructure.csproj", "{F70ED59A-7C61-493F-88FE-5523AE691A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.NetworkUtility", "TodoList.NetworkUtility\TodoList.NetworkUtility.csproj", "{06E7E877-DB38-4D1E-806B-0DB1D019F4A4}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "todolist.client", "Client\TodoList.Client\todolist.client.esproj", "{28255256-2E70-49DB-915D-03BA68C1B589}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.UnitTest", "TodoList.UnitTest\TodoList.UnitTest.csproj", "{A0740807-C2E9-4C41-B448-A8AF5F908DBE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{B294C6CC-5A07-4943-A92A-0B736406E652}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "todolist.client", "TodoList.Client\todolist.client.esproj", "{28255256-2E70-49DB-915D-03BA68C1B589}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{ECD13E44-CA14-4042-9898-235AD43641BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,14 +39,6 @@ Global
 		{F70ED59A-7C61-493F-88FE-5523AE691A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F70ED59A-7C61-493F-88FE-5523AE691A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F70ED59A-7C61-493F-88FE-5523AE691A67}.Release|Any CPU.Build.0 = Release|Any CPU
-		{06E7E877-DB38-4D1E-806B-0DB1D019F4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06E7E877-DB38-4D1E-806B-0DB1D019F4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06E7E877-DB38-4D1E-806B-0DB1D019F4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06E7E877-DB38-4D1E-806B-0DB1D019F4A4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0740807-C2E9-4C41-B448-A8AF5F908DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0740807-C2E9-4C41-B448-A8AF5F908DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0740807-C2E9-4C41-B448-A8AF5F908DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0740807-C2E9-4C41-B448-A8AF5F908DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{28255256-2E70-49DB-915D-03BA68C1B589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{28255256-2E70-49DB-915D-03BA68C1B589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28255256-2E70-49DB-915D-03BA68C1B589}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
@@ -56,5 +48,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1627DDD9-BA32-4C33-89EF-D9F52A6A77F1} = {ECD13E44-CA14-4042-9898-235AD43641BD}
+		{260291EF-4CA5-48E1-8DF1-08CC3E7EB1E2} = {ECD13E44-CA14-4042-9898-235AD43641BD}
+		{3D98FC91-90CA-43B4-99FF-AAB71B294DDD} = {ECD13E44-CA14-4042-9898-235AD43641BD}
+		{F70ED59A-7C61-493F-88FE-5523AE691A67} = {ECD13E44-CA14-4042-9898-235AD43641BD}
+		{28255256-2E70-49DB-915D-03BA68C1B589} = {B294C6CC-5A07-4943-A92A-0B736406E652}
 	EndGlobalSection
 EndGlobal

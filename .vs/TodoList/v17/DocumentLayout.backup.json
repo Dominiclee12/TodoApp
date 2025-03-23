@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\domin\\source\\repos\\TodoList\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{28255256-2E70-49DB-915D-03BA68C1B589}|TodoList.Client\\todolist.client.esproj|c:\\users\\domin\\source\\repos\\todolist\\todolist.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{28255256-2E70-49DB-915D-03BA68C1B589}|TodoList.Client\\todolist.client.esproj|solutionrelative:todolist.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28255256-2E70-49DB-915D-03BA68C1B589}|TodoList.Client\\todolist.client.esproj|c:\\users\\domin\\source\\repos\\todolist\\todolist.client\\src\\components\\todoitems.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{28255256-2E70-49DB-915D-03BA68C1B589}|TodoList.Client\\todolist.client.esproj|solutionrelative:todolist.client\\src\\components\\todoitems.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28255256-2E70-49DB-915D-03BA68C1B589}|TodoList.Client\\todolist.client.esproj|c:\\users\\domin\\source\\repos\\todolist\\todolist.client\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{28255256-2E70-49DB-915D-03BA68C1B589}|TodoList.Client\\todolist.client.esproj|solutionrelative:todolist.client\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,45 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\TodoList\\todolist.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "todolist.client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\TodoList\\todolist.client\\src\\App.jsx",
-              "RelativeToolTip": "todolist.client\\src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-03-22T14:15:36.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "api.js",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\TodoList\\todolist.client\\services\\api.js",
-              "RelativeDocumentMoniker": "todolist.client\\services\\api.js",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\TodoList\\todolist.client\\services\\api.js",
-              "RelativeToolTip": "todolist.client\\services\\api.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-20T15:46:56.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoItems.jsx",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\TodoList\\TodoList.Client\\src\\components\\TodoItems.jsx",
-              "RelativeDocumentMoniker": "TodoList.Client\\src\\components\\TodoItems.jsx",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\TodoList\\TodoList.Client\\src\\components\\TodoItems.jsx",
-              "RelativeToolTip": "TodoList.Client\\src\\components\\TodoItems.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-03-19T13:20:56.088Z",
-              "EditorCaption": ""
             }
           ]
         }
