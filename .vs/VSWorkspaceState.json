@@ -1,9 +1,5 @@
 {
-  "ExpandedNodes": [
-    "",
-    "\\Server",
-    "\\Server\\TodoList.WebAPI"
-  ],
-  "SelectedNode": "\\TodoList.sln",
+  "ExpandedNodes": ["", "\\Server", "\\Server\\WebAPI"],
+  "SelectedNode": "\\sln",
   "PreviewInSolutionExplorer": false
 }

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.WebAPI", "Server\TodoList.WebAPI\TodoList.WebAPI.csproj", "{1627DDD9-BA32-4C33-89EF-D9F52A6A77F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "Server\WebAPI\WebAPI.csproj", "{1627DDD9-BA32-4C33-89EF-D9F52A6A77F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.CoreBusiness", "Server\TodoList.CoreBusiness\TodoList.CoreBusiness.csproj", "{260291EF-4CA5-48E1-8DF1-08CC3E7EB1E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBusiness", "Server\CoreBusiness\CoreBusiness.csproj", "{260291EF-4CA5-48E1-8DF1-08CC3E7EB1E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Application", "Server\TodoList.Application\TodoList.Application.csproj", "{3D98FC91-90CA-43B4-99FF-AAB71B294DDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Server\Application\Application.csproj", "{3D98FC91-90CA-43B4-99FF-AAB71B294DDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Infrastructure", "Server\TodoList.Infrastructure\TodoList.Infrastructure.csproj", "{F70ED59A-7C61-493F-88FE-5523AE691A67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Server\Infrastructure\Infrastructure.csproj", "{F70ED59A-7C61-493F-88FE-5523AE691A67}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "todolist.client", "Client\TodoList.Client\todolist.client.esproj", "{28255256-2E70-49DB-915D-03BA68C1B589}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "todolist.client", "Client\todolist.client\todolist.client.esproj", "{28255256-2E70-49DB-915D-03BA68C1B589}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{B294C6CC-5A07-4943-A92A-0B736406E652}"
 EndProject
@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{ECD13E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{35A5161A-AE55-4832-A7F9-BEB3B089E2D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.UnitTest", "Testing\TodoList.UnitTest\TodoList.UnitTest.csproj", "{F68ABBDF-E7BC-40F7-9D45-8DFE76161FD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "Testing\UnitTest\UnitTest.csproj", "{F68ABBDF-E7BC-40F7-9D45-8DFE76161FD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

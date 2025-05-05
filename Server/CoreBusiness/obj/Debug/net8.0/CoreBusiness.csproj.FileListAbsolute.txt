@@ -1,0 +1,12 @@
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/bin/Debug/net8.0/CoreBusiness.deps.json
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/bin/Debug/net8.0/CoreBusiness.dll
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/CoreBusiness.AssemblyInfoInputs.cache
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/CoreBusiness.AssemblyInfo.cs
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/CoreBusiness.csproj.CoreCompileInputs.cache
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/CoreBusiness.sourcelink.json
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/CoreBusiness.dll
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/refint/CoreBusiness.dll
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/CoreBusiness.pdb
+/Users/dominic/Documents/Project/TodoApp/Server/CoreBusiness/obj/Debug/net8.0/ref/CoreBusiness.dll
